@@ -15,12 +15,15 @@ Open the index.html on your favorite browser.
 ## Known Bugs
 I haven't encountered any so far.
 ## Technologies Used
-Html5
-Bootstrap
-Css
-Javascript
-Jquery
-Markdown
+<ul>
+  <li>Html5</li>
+  <li>Bootstrap</li>
+  <li>Css</li>
+  <li>Javascript</li>
+  <li>Jquery</li>
+  <li>Markdown</li>
+</ul>
+
 ## Support and contact details
 To collaborate, reach me on derricksikona@gmail.com
 ### License
